@@ -1,5 +1,5 @@
 ---
-title: Georgios Andreadis
+title: Omikumar B. Makadia
 role: PhD Student
 bio: "Interested in Communications and Machine Learning."
 user_groups:
@@ -7,5 +7,5 @@ user_groups:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/gandreadis-
+    link: https://linkedin.com/in/omikumar-bhavinkumar-makadia-4a7686242/
 ---
