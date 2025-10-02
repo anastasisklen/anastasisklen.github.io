@@ -7,5 +7,5 @@ user_groups:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/anastasios-kleniatis
+    link: https://linkedin.com/in/gandreadis-
 ---
