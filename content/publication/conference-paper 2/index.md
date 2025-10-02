@@ -21,7 +21,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Indoor Positioning and Indoor Navigation*
+publication: In *Indoor Positioning and Indoor Navigation 2025*
 publication_short: In *IPIN 2025*
 
 abstract: This study presents a neural network approach for static Bluetooth Low Energy (BLE) localization, utilizing phase measurements and carrier frequency per data packet, captured from multi-antenna receiver(s). Traditional phase-based deterministic techniques fail to accurately estimate the position of a tag with a \emph{single} multi-antenna receiver with closely spaced antennas. Our approach addresses this limitation by leveraging neural networks that capture the non-linear distribution of the carrier phase offset (CPO) and filter out noise, enabling robust localization with just one multi-antenna receiver. Among the two neural network architectures tested, the Long Short-Term Memory (LSTM) model demonstrated notable resilience against phase noise and achieved higher accuracy during high-rate tag transmissions compared to the FeedForward (FF) model. Both architectures were trained on simulated or real data, and subsequently tested on real data, with both models outperforming deterministic techniques in scenarios where the latter either excelled or failed to estimate the tag's position.
@@ -32,7 +32,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -41,7 +41,7 @@ featured: true
 
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://github.com/geoandrs/ble-dataset'
 url_poster: ''
 url_project: ''
 url_slides: ''
