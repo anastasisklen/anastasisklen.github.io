@@ -1,10 +1,11 @@
 ---
-title: Aggelos Bletsas
-role: Professor
+title: Georgios Andreadis
+role: PhD Student
+bio: "Interested in Communications and Machine Learning."
 user_groups:
-  - Principal Investigators
+  - Grad Students
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/aggelos-bletsas-290127196
+    link: https://linkedin.com/in/anastasios-kleniatis
 ---
