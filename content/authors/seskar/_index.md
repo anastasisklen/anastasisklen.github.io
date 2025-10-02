@@ -12,7 +12,7 @@ social:
     link: "https://scholar.google.com/citations?user=Oykf1qYAAAAJ&hl=en"
   - icon: globe
     icon_pack: fas
-    link: "https://www.winlab.rutgers.edu/~seskar/"
+    link: "https://www.winlab.rutgers.edu/~narayan/"
   - icon: linkedin
     icon_pack: fab
     link: "https://www.linkedin.com/in/narayan-mandayam-6936a011"
