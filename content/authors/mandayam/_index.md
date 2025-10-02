@@ -1,1 +1,22 @@
-45,45,45,10,116,105,116,108,101,58,32,65,103,103,101,108,111,115,32,66,108,101,116,115,97,115,10,114,111,108,101,58,32,80,114,111,102,101,115,115,111,114,10,117,115,101,114,95,103,114,111,117,112,115,58,10,32,32,45,32,80,114,105,110,99,105,112,97,108,32,73,110,118,101,115,116,105,103,97,116,111,114,115,10,115,111,99,105,97,108,58,10,32,32,45,32,105,99,111,110,58,32,108,105,110,107,101,100,105,110,10,32,32,32,32,105,99,111,110,95,112,97,99,107,58,32,102,97,98,10,32,32,32,32,108,105,110,107,58,32,104,116,116,112,115,58,47,47,108,105,110,107,101,100,105,110,46,99,111,109,47,105,110,47,97,103,103,101,108,111,115,45,98,108,101,116,115,97,115,45,50,57,48,49,50,55,49,57,54,10,45,45,45,10
+---
+title: "Narayan Mandayam"
+role: "Director of WINLAB / Distinguished Professor"
+user_groups:
+  - Principal Investigators
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:mandayam@example.edu"
+  - icon: graduation-cap
+    icon_pack: fas
+    link: "https://scholar.google.com/citations?user=Oykf1qYAAAAJ&hl=en"
+  - icon: globe
+    icon_pack: fas
+    link: "https://www.winlab.rutgers.edu/~narayan/"
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/narayan-mandayam-6936a011"
+  - icon: university
+    icon_pack: fas
+    link: "https://www.ece.rutgers.edu/narayan-mandayam"
+---
