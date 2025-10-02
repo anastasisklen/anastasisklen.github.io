@@ -6,7 +6,7 @@ user_groups:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:mandayam@example.edu"
+    link: "mailto:narayan@winlab.rutgers.edu"
   - icon: graduation-cap
     icon_pack: fas
     link: "https://scholar.google.com/citations?user=Oykf1qYAAAAJ&hl=en"
