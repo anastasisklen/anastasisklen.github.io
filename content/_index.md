@@ -8,14 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Efficient
       image:
-        filename: welcome.jpg
+        filename: nsf.png
+        filename: winlab.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        BackscattEr FabrIC For MultidImensional
+        SpEctrum SituatioNal AwarEness and ProTection
+        
   
   - block: collection
     content:
