@@ -1,23 +1,13 @@
 ---
-title: 'DoA of Multiple Sources with an Array of Passive Tags instead of an Antenna Array'
+title: 'Robust Phase-based BLE Localization with a Single Multi-Antenna Receiver and Neural Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Anastasios Kleniatis
-  - Georgios Andreadis
-  - Omikumar B. Makadia
-  - Georgios Vougioukas
-  - Ivan Seskar
-  - Narayan Mandayam
-  - Rich Howard
+  - Panos N. Alevizos
   - Aggelos Bletsas
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2025-09-01T00:00:00Z'
 doi: ''
