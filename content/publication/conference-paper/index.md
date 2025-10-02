@@ -19,7 +19,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2015-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -50,18 +50,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
