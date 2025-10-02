@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Efficient # Website name
-baseURL: 'https://efficient.github.io/' # Website URL
+baseURL: 'https://efficient-winlab.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
