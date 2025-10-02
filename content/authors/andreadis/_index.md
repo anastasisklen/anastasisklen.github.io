@@ -1,7 +1,6 @@
 ---
 title: Georgios Andreadis
 role: PhD Student
-bio: "Interested in Communications and Machine Learning."
 user_groups:
   - Grad Students
 social:
