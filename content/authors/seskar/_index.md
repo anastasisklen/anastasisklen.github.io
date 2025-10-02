@@ -1,12 +1,12 @@
 ---
-title: "Narayan Mandayam"
+title: "Ivan Seskar"
 role: "Director of WINLAB / Distinguished Professor"
 user_groups:
   - Principal Investigators
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:mandayam@example.edu"
+    link: "mailto:seskar@example.edu"
   - icon: graduation-cap
     icon_pack: fas
     link: "https://scholar.google.com/citations?user=Oykf1qYAAAAJ&hl=en"
